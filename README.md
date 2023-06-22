@@ -8,6 +8,15 @@ The system consists of the following components:
 4.  All the push buttons are connected as active low.
 5.  All the LEDs are connected as active high.
 
+<br> <br>
+
+| Use Case              | Initial State        | Inputs            | Resultant System State    |action                      |
+|-----------------------|----------------------|--------------------|---------------------------|---------------------------|
+| Use Case 1            | Initial State 1      | Inputs 1          | Resultant State 1         | Resultant State 1         |
+| Use Case 2            | Initial State 2      | Inputs 2          | Resultant State 2         | Resultant State 1         |
+| Use Case 3            | Initial State 3      | Inputs 3          | Resultant State 3         | Resultant State 1         |
+
+
 
 <br><br>
 * <h3>team members </h3>
