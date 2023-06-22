@@ -2,7 +2,7 @@
 
 
 <br><br>
-<h4>team members </h4>
+<h1>team members </h1>
 
 
 |Name | Sec. | B.N. |
