@@ -15,8 +15,11 @@ The system consists of the following components:
 | default state           |System is powered off| System is powered on, no button is pressed, the switch is in the on state  | Vehicle door is locked  | The three LEDs are off|
 | door unlock           | Vehicle door is locked     | Door handle button is pressed| Vehicle door is unlocked but it is closed  | Vehicle lock LED is on.Hazard LED is blinking one time 0.5 second high and 0.5 second low for each blink, Ambient light LED is on for 2 seconds then off         |
 | door is open            | Vehicle door is unlocked and the door is closed.     | Door unlock button is pressed.         | Vehicle door is unlocked and the door is open.         |Ambient light LED is on         |
-| Use Case 3            | Initial State 3      | Inputs 3          | Resultant State 3         | Resultant State 1         |
-| Use Case 3            | Initial State 3      | Inputs 3          | Resultant State 3         | Resultant State 1         |
+| anti theft vehicle lock           | Vehicle door is unlocked and the door is closed      |No buttons pressed for 10 seconds.         | Vehicle door is locked        | Vehicle lock LED is off.Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink,Ambient light LED is off.         |
+|Closing the door           |Vehicle door is unlocked and the door is open.     | Door lock button is pressed         | Vehicle door is unlocked and the door is closed        | Vehicle lock LED is off. Hazard LED is off. Ambient light LED is on for one second and then is off.         |
+| Locking the door           | Vehicle door is unlocked and the door is closed      | Door handle lock button is pressed         | Vehicle door is locked and the door is closed         | Vehicle lock LED is off.
+Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink,
+Ambient light LED is off.        |
 
 
 
