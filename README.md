@@ -2,8 +2,8 @@
 
 
 <br><br>
-- <h4>team members </h4>
-- <span style="font-size:40px;">This text will have a font size of 12 pixels.</span>
+<h4>team members </h4>
+
 
 |Name | Sec. | B.N. |
 |-----------------|-----------------|-----------------|
