@@ -3,6 +3,8 @@
 
 <br><br>
 - <h4>team members </h4>
+- <span style="font-size:12px;">This text will have a font size of 12 pixels.</span>
+
 |Name | Sec. | B.N. |
 |-----------------|-----------------|-----------------|
 | Osamah Faisl | 1 | 11 |
