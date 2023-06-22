@@ -17,9 +17,7 @@ The system consists of the following components:
 | door is open            | Vehicle door is unlocked and the door is closed.     | Door unlock button is pressed.         | Vehicle door is unlocked and the door is open.         |Ambient light LED is on         |
 | anti theft vehicle lock           | Vehicle door is unlocked and the door is closed      |No buttons pressed for 10 seconds.         | Vehicle door is locked        | Vehicle lock LED is off.Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink,Ambient light LED is off.         |
 |Closing the door           |Vehicle door is unlocked and the door is open.     | Door lock button is pressed         | Vehicle door is unlocked and the door is closed        | Vehicle lock LED is off. Hazard LED is off. Ambient light LED is on for one second and then is off.         |
-| Locking the door           | Vehicle door is unlocked and the door is closed      | Door handle lock button is pressed         | Vehicle door is locked and the door is closed         | Vehicle lock LED is off.
-Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink,
-Ambient light LED is off.        |
+| Locking the door           | Vehicle door is unlocked and the door is closed      | Door handle lock button is pressed         | Vehicle door is locked and the door is closed         | Vehicle lock LED is off. Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink, Ambient light LED is off.        |
 
 
 
