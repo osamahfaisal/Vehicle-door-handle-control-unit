@@ -10,6 +10,9 @@ The system consists of the following components:**
   4.  **All the push buttons are connected as active low.**
   5.  **All the LEDs are connected as active high**
 <br>
+<br>
+
+**The system shall be implemented to handle the following use cases:**
 
 | Use Case              | Initial State        | Inputs            | Resultant System State    |action                      |
 |-----------------------|----------------------|--------------------|---------------------------|---------------------------|
