@@ -1,7 +1,7 @@
 # Vehicle-door-handle-control-unit
 
 
-![Vehicle-door-handle-control-unit](vechile.gif)
+![Vehicle-door-handle-control-unit](vechile .gif)
 
 
 - The project aims to implement a vehicle door handle control unit that supports an anti-theft locking capability.
