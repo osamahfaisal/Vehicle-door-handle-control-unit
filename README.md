@@ -12,7 +12,7 @@ The system consists of the following components:
 
 | Use Case              | Initial State        | Inputs            | Resultant System State    |action                      |
 |-----------------------|----------------------|--------------------|---------------------------|---------------------------|
-| Use Case 1            | Initial State 1      | Inputs 1          | Resultant State 1         | Resultant State 1         |
+| default state           |System is powered off| System is powered on, no button is pressed, the switch is in the on state  | Vehicle door is locked  | The three LEDs are off|
 | Use Case 2            | Initial State 2      | Inputs 2          | Resultant State 2         | Resultant State 1         |
 | Use Case 3            | Initial State 3      | Inputs 3          | Resultant State 3         | Resultant State 1         |
 
