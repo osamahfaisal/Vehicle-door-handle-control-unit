@@ -4,14 +4,12 @@
 -  **The project aims to implement a vehicle door handle control unit that supports an anti-theft locking capability.
 The system consists of the following components:** 
 
-  1.  A microcontroller unit.
-  2.  Two push buttons, one to simulate the handle lock/unlock button and the other one to simulate the door lock/unlock.
-  3. Three LEDs, one to simulate the vehicle lock, one to simulate the hazard lights and one for the vehicle ambient light.
-  4.  All the push buttons are connected as active low.
-  5.  All the LEDs are connected as active high.
-     
-
-<br> <br>
+  1.  **A microcontroller unit.**
+  2.  **Two push buttons, one to simulate the handle lock/unlock button and the other one to simulate the door lock/unlock.**
+  3. **Three LEDs, one to simulate the vehicle lock, one to simulate the hazard lights and one for the vehicle ambient light.**
+  4.  **All the push buttons are connected as active low.**
+  5.  **All the LEDs are connected as active high**
+<br>
 
 | Use Case              | Initial State        | Inputs            | Resultant System State    |action                      |
 |-----------------------|----------------------|--------------------|---------------------------|---------------------------|
@@ -23,6 +21,7 @@ The system consists of the following components:**
 | Locking the door           | Vehicle door is unlocked and the door is closed      | Door handle lock button is pressed         | Vehicle door is locked and the door is closed         | Vehicle lock LED is off. Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink, Ambient light LED is off.        |
 
 <br>
+
 ![Vehicle-door-handle-control-unit](vechile.gif)
 
 
