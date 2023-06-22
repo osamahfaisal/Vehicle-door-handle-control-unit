@@ -25,11 +25,4 @@ The system consists of the following components:**
 ![Vehicle-door-handle-control-unit](vechile.gif)
 
 
- - **team members**
 
-|Name | Sec. | B.N. |
-|-----------------|-----------------|-----------------|
-| Osamah Faisal | 1 | 11 |
-| Shuaib Abdulsalam | 1 | 48 |
-| Bassma Alaa | 1 | 20 |
-| Mariam Mounier| 2 |35 |
